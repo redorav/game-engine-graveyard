@@ -8,3 +8,4 @@ Herein we honor the mighty fallen of proprietary tech
 || NTT | Tt Games | ![skywalker](https://github.com/redorav/killed-by-unreal/blob/master/images/lego-skywalker-saga.png) |
 || CATHODE Engine | Creative Assembly | ![alien-isolation](https://github.com/redorav/killed-by-unreal/blob/master/images/alien-isolation.png) |
 || X-Ray Engine | GSC Gasme World | ![stalker](https://github.com/redorav/killed-by-unreal/blob/master/images/stalker.png) |
+|| Illusion Engine | Hangar 13 | ![mafia-de](https://github.com/redorav/killed-by-unreal/blob/master/images/mafia-de.png) |
