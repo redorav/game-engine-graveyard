@@ -3,4 +3,6 @@ Herein we honor the mighty fallen of proprietary tech
 
 || Engine | Company | Games |
 | --- | :---: | --- | --- |
-|![Foundation](https://github.com/redorav/public_source_engines/blob/master/logos/ue4_64px.png)| Foundation | Crystal Dynamics | Tomb Raider series |
+|![avengers](https://github.com/redorav/killed-by-unreal/blob/master/images/avengers.jpg)| Foundation | Crystal Dynamics | Rise of the Tomb Raider |
+|![avengers](https://github.com/redorav/killed-by-unreal/blob/master/images/avengers.jpg)| REDEngine | CD Projekt Red | The Witcher 3 |
+|![avengers](https://github.com/redorav/killed-by-unreal/blob/master/images/avengers.jpg)| NTT | Tt Games | LEGO The Skywalker Saga |
