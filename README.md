@@ -3,7 +3,7 @@ Herein we honor the mighty fallen of proprietary tech
 
 || Engine | Company | Games |
 | --- | :---: | :---: | --- |
-|| Foundation | Crystal Dynamics | <img src="images/images/avengers.png" width="132"/> <img src="images/rise-tomb-raider.png" width="132"/> |
+|| Foundation | Crystal Dynamics | <img src="images/avengers.png" width="132"/> <img src="images/rise-tomb-raider.png" width="132"/> |
 || REDEngine | CD Projekt Red | <img src="images/the-witcher-3.png" width="132"/> <img src="images/cyberpunk-2077.png" width="132"/>  |
 || NTT | Tt Games | <img src="images/lego-skywalker-saga.png" width="132"/> |
 || CATHODE Engine | Creative Assembly | <img src="images/alien-isolation.png" width="132"/> |
