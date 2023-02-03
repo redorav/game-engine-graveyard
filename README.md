@@ -9,4 +9,4 @@ Herein we honor the mighty fallen of proprietary tech
 || CATHODE Engine | Creative Assembly | ![alien-isolation](images/alien-isolation.png) |
 || X-Ray Engine | GSC Game World | ![stalker](images/stalker.png) |
 || Illusion Engine | Hangar 13 | ![mafia-de](images/mafia-de.png) |
-|| Slipspace Engine | 343 Industries | <img src="images/halo-infinite.png" width="200"/>|
+|| Slipspace Engine | 343 Industries | <img src="images/halo-infinite.png" width="132"/>|
