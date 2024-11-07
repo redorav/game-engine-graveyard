@@ -12,3 +12,4 @@ Herein we honor the mighty fallen of proprietary tech
 |:skull:| REDEngine | CD Projekt Red | <img src="images/the-witcher-3.png" width="132"/> <img src="images/cyberpunk-2077.png" width="132"/>  |
 |:skull:| Slipspace Engine | 343 Industries | <img src="images/halo-infinite.png" width="132"/>|
 |:skull:| X-Ray Engine | GSC Game World | <img src="images/stalker.png" width="132"/> |
+|:skull:| Eclipse Engine | Bioware |  |
