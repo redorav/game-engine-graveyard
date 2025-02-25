@@ -13,3 +13,4 @@ Herein we honor the mighty fallen of proprietary tech
 |:skull:| Slipspace Engine | 343 Industries | <img src="images/halo-infinite.png" width="132"/>|
 |:skull:| X-Ray Engine | GSC Game World | <img src="images/stalker.png" width="132"/> |
 |:skull:| Eclipse Engine | Bioware |  |
+|:skull:| LithTech | Monolith Productions | <img src="images/shadow_of_mordor.webp" width="132"/> <img src="images/shadow_of_war.webp" width="132"/> |
